@@ -1,0 +1,11 @@
+POST http://localhost:8080/api/libros
+Content-Type: application/json
+
+{
+  "titulo": "El Hobbit",
+  "autor": "Tolkien",
+  "descripcion": "Libro de fantasía",
+  "precio": 12.99,
+  "stock": 3,
+  "categoria": "FANTASIA"
+}

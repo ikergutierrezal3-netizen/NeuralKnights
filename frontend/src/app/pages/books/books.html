@@ -1,0 +1,13 @@
+<h1>Lista de Libros</h1>
+
+<div *ngFor="let book of books()">
+
+  <h2>{{ book.title }}</h2>
+
+  <p>Autor: {{ book.author }}</p>
+
+  <p>Precio: ${{ book.price }}</p>
+
+  <hr>
+
+</div>

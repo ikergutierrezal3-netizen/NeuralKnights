@@ -34,12 +34,8 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
 
-=======
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -53,8 +49,7 @@
 			<artifactId>h2</artifactId>
 			<scope>runtime</scope>
 		</dependency>
->>>>>>> ac6decbfbee6a4a14a25f88ce76ed3f5a89cfdcb
->>>>>>> 766b250c08777aac5e05593edb69906df4f1a39c
+ 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
